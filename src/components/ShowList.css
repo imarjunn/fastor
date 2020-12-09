@@ -1,0 +1,97 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
+
+.show-container{
+    margin-top: 30px;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.show{
+    background-color:white;
+    position: relative;
+    border-radius: 3px;
+    box-shadow: 3px 3px 5px rgba(0,0,0,0.1);
+    overflow: hidden;
+    margin: 1rem;
+    width: 450px;
+    display: flex;
+}
+
+.show img{
+    object-fit: cover;
+    border-radius: 5px;
+    height: 250px;
+    width: 40%;
+}
+
+.show-info{
+    padding: 1rem;
+    margin-left: 10px;
+}
+
+.show-info h3{
+    color: #4a4e69;
+    font-weight: 600;
+    margin: 0;
+}
+
+
+.rating{
+    background-color: white;
+    border-radius: 5px;
+    font-weight: bold;
+    padding: 0.5rem;
+}
+
+.rating.green{
+    color: #66CD00;
+    font-weight: 700;
+}
+
+.rating.orange{
+    color: orange;
+}
+
+.rating.red{
+    color: red;
+}
+
+.show-location{
+    margin-top: 10px;
+    color: #adb5bd;
+    font-weight: 600;
+    font-size: 14px;
+}
+
+.show-cuisine{
+    margin-top: 10px;
+    color: #adb5bd;
+    font-weight: 600;
+    font-size: 14px;
+}
+
+.discount{
+    margin-top: 10px;
+    color: #f4a261;
+}
+
+.bottom-section{
+    display: flex;
+    margin-top: 25px;
+}
+
+.star{
+    background:black;
+    clip-path: polygon(50% 0%, 61% 35%, 98% 35%, 68% 57%, 83% 100%, 50% 70%, 18% 100%, 32% 57%, 2% 35%, 39% 35%);
+}
+
+.popularity{
+    color: #adb5bd;
+    font-weight: 400;
+    font-size: 12px;
+}
+
+.second-part{
+    margin-left: 80px;
+}

@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/fastor/static/css/main.4848b47c.chunk.css",
-    "main.js": "/fastor/static/js/main.d07b8718.chunk.js",
-    "main.js.map": "/fastor/static/js/main.d07b8718.chunk.js.map",
+    "main.js": "/fastor/static/js/main.071224cf.chunk.js",
+    "main.js.map": "/fastor/static/js/main.071224cf.chunk.js.map",
     "runtime-main.js": "/fastor/static/js/runtime-main.233176c6.js",
     "runtime-main.js.map": "/fastor/static/js/runtime-main.233176c6.js.map",
-    "static/js/2.023b46ba.chunk.js": "/fastor/static/js/2.023b46ba.chunk.js",
-    "static/js/2.023b46ba.chunk.js.map": "/fastor/static/js/2.023b46ba.chunk.js.map",
+    "static/js/2.07897b2f.chunk.js": "/fastor/static/js/2.07897b2f.chunk.js",
+    "static/js/2.07897b2f.chunk.js.map": "/fastor/static/js/2.07897b2f.chunk.js.map",
     "index.html": "/fastor/index.html",
     "static/css/main.4848b47c.chunk.css.map": "/fastor/static/css/main.4848b47c.chunk.css.map",
-    "static/js/2.023b46ba.chunk.js.LICENSE.txt": "/fastor/static/js/2.023b46ba.chunk.js.LICENSE.txt"
+    "static/js/2.07897b2f.chunk.js.LICENSE.txt": "/fastor/static/js/2.07897b2f.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.233176c6.js",
-    "static/js/2.023b46ba.chunk.js",
+    "static/js/2.07897b2f.chunk.js",
     "static/css/main.4848b47c.chunk.css",
-    "static/js/main.d07b8718.chunk.js"
+    "static/js/main.071224cf.chunk.js"
   ]
 }
